@@ -5,4 +5,5 @@ The program stores account data in a JSON file and reads from and writes to it w
 The program includes validation checks for empty input fields, duplicate account creation, and valid login credentials. It also generates a random account number and ensures that the account number is unique.
 The user interface includes a login screen, a home screen with deposit, withdrawal, and balance inquiry options, an input amount screen for deposit and withdrawal operations, and a back button to return to the home screen.
 
-Enjoy the ATM !
+Thank you for using ATM 🏧 !
+
